@@ -4,3 +4,8 @@ title: "feat: "
 labels: [feature, enhancement, triage]
 assignees:
   - PaoloProdossimoLopes
+body:
+- type: markdown
+  attributes:
+    value: |
+      Obrigado por ter um separado um tempo para preencher o reporte

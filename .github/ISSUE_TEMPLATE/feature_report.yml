@@ -9,3 +9,11 @@ body:
   attributes:
     value: |
       Obrigado por ter um separado um tempo para preencher o reporte
+
+- type: checkboxes
+  attributes:
+    label: Ainda não existe uma "issue" ja aberta para essa nova funcionalidade ?
+    description: Certifique-se que ainda não existe uma semelhante repotada antes de abrir uma nova.
+    options:
+      - label: Eu procurei se existe ja uma "issue" para essa funcionalidade
+        required: true

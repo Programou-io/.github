@@ -1,0 +1,6 @@
+name: 💡 Feature
+description: Arquivo para retorpar uma feature
+title: "feat: "
+labels: [feature, enhancement, triage]
+assignees:
+  - PaoloProdossimoLopes
